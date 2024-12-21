@@ -45,9 +45,8 @@ The app will run on `http://localhost:3000`.
 ## Usage
 
 1. Open the application in your browser.
-2. Enter the participants' names and the respective amounts.
-3. Use the interactive controls to adjust or clear inputs.
-4. View the calculated bill split in real-time.
+2. Use the interactive controls to adjust or clear inputs.
+3. View the calculated bill split in real-time.
 
 ---
 
